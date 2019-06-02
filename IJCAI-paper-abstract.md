@@ -15,5 +15,8 @@
 ## IJCAI 2018
 |文章简介|发表时间|会议来源|文献名|机器学习方法|文章备注|  
 |-------|-------|-------|------|-----------|-------|
-|
+|药物可解释的相似度度量|2018|IJCAI|Drug Similarity Integration Through Attentive Multi-view Graph Auto-Encoders|自编码、多视图、注意力|方法|
+|DTIs预测，端到端可解释|2018|IJCAI|Interpretable Drug Target Prediction Using Deep Neural Representation|端到端DNN、注意力|方法|
+|预测慢性病的演变速度|2018|IJCAI|Predicting the Spatio-Temporal Evolution of Chronic Diseases in Population with Human Mobility Data|协同主题、高斯混合模型|方法|
+|跨模态生物医学图像分割|2018|IJCAI|Unsupervised Cross-Modality Domain Adaptation of ConvNets for Biomedical Image Segmentations with Adversarial Loss|CNN、对抗|
 ## IJCAI 2019
