@@ -10,7 +10,7 @@
 * DTIs
 * gene
 * express
-* interaction
+* interact
 * response
 * compound
 * molecular
