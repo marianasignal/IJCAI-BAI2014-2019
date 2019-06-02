@@ -14,7 +14,7 @@
 * response
 * compound
 * molecular
-* medicine
+* medic
 * genomic
 * chemical
 * chemo
