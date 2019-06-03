@@ -7,7 +7,12 @@
 |基因表达数据的双聚类|2015|IJCAI|Biclustering Gene Expressions Using Factor Graphs and the Max-Sum Algorithm|二元因子图、Max Sum算法|方法|
 |医学同义词抽取|2015|IJCAI|Medical Synonym Extraction with Concept Space Models|半监督、Word2Vec|方法|
 ## IJCAI 2016
-
+|文章简介|发表时间|会议来源|文献名|机器学习方法|文章备注|  
+|-------|-------|-------|------|-----------|-------|
+|生物医疗文本中不良药物时间提取|2016|IJCAI|Joint Models for Extracting Adverse Drug Events from Biomedical Text|CNN|方法，GitHub开源|
+|利用分子机器人群体进行治疗|2016|IJCAI|Rule-Based Programming of Molecular Robot Swarms for Biomedical Applications|Athelas、Bilbo|理论|
+|蛋白质二级结构预测|2016|IJCAI|Protein Secondary Structure Prediction Using Cascaded Convolutional and Recurrent Neural Networks|端到端DNN（CNN、RNN）|方法|
+|利用EHR进行药物重定位|2016|IJCAI|Baseline Regularization for Computational Drug Repositioning with Longitudinal Observational Data|正则化|方法|
 ## IJCAI 2017
 |文章简介|发表时间|会议来源|文献名|机器学习方法|文章备注|  
 |-------|-------|-------|------|-----------|-------|
