@@ -1,8 +1,11 @@
 # IJCAI
-## IJCAI 2014
-
 ## IJCAI 2015
-
+|文章简介|发表时间|会议来源|文献名|机器学习方法|文章备注|  
+|-------|-------|-------|------|-----------|-------|
+|医学报告术语自动检测|2015|IJCAI|Information Extraction of Texts in the Biomedical Domain|NLP|方法|
+|本体流中的知识发现|2015|IJCAI|Scalable Maintenance of Knowledge Discovery in an Ontology Stream|无|综述|
+|基因表达数据的双聚类|2015|IJCAI|Biclustering Gene Expressions Using Factor Graphs and the Max-Sum Algorithm|二元因子图、Max Sum算法|方法|
+|医学同义词抽取|2015|IJCAI|Medical Synonym Extraction with Concept Space Models|半监督、Word2Vec|方法|
 ## IJCAI 2016
 
 ## IJCAI 2017
