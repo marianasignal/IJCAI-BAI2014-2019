@@ -37,5 +37,10 @@
 |蛋白质相互作用的设计和特异性|2014|RECOMB|Learning Sequence Determinants of Protein: Protein Interaction Specificity with Sparse Graphical Models|图模型|方法|2|否|
 |基于序列的蛋白质同源性检测|2014|RECOMB|MRFalign: Protein Homology Detection through Alignment of Markov Random Fields|马尔可夫随机场、位置特异得分矩阵|方法|1|否|
 |癌症通路推断|2014|RECOMB|Simultaneous Inference of Cancer Pathways and Tumor Progression from Cross-Sectional Mutation Data|贝叶斯网络|方法，TCGA数据|2|否|
-|蛋白质功能预测|2014|RECOMB|Correlated Protein Function Prediction via Maximization of Data-Knowledge Consistency|多标签分类、矩阵分解|2|否|
-|蛋白质结构对齐|2014|RECOMB|Bayesian Multiple Protein Structure Alignment|贝叶斯统计、MCMC|1|否|
+|蛋白质功能预测|2014|RECOMB|Correlated Protein Function Prediction via Maximization of Data-Knowledge Consistency|多标签分类、矩阵分解|方法|2|否|
+|蛋白质结构对齐|2014|RECOMB|Bayesian Multiple Protein Structure Alignment|贝叶斯统计、MCMC|方法|1|否|
+## RECOMB 2015
+|文章简介|发表时间|会议来源|文献名|机器学习方法|文章备注|重要性评分|是否药物重定位|
+|-------|--------|-------|------|-----------|-------|---------|-----------|
+|基因组非编码DNA序列的顺式调控元件信息特征发现|2015|RECOMB|Deep Feature Selection: Theory and Application to Identify Enhancers and Promoters|DNN、特征选择|1|否|
+|多药物多靶点DTI预测|2015|RECOMB|Deciding When to Stop: Efficient Experimentation to Learn to Predict Drug-Target Interactions|核化贝叶斯矩阵分解|方法|3|是|
