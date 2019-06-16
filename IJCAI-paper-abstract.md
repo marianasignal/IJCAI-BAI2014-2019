@@ -44,3 +44,21 @@
 |-------|--------|-------|------|-----------|-------|---------|-----------|
 |基因组非编码DNA序列的顺式调控元件信息特征发现|2015|RECOMB|Deep Feature Selection: Theory and Application to Identify Enhancers and Promoters|DNN、特征选择|1|否|
 |多药物多靶点DTI预测|2015|RECOMB|Deciding When to Stop: Efficient Experimentation to Learn to Predict Drug-Target Interactions|核化贝叶斯矩阵分解|方法|3|是|
+## RECOMB 2016
+|文章简介|发表时间|会议来源|文献名|机器学习方法|文章备注|重要性评分|是否药物重定位|
+|-------|--------|-------|------|-----------|-------|---------|-----------|
+|蛋白质病毒间相互作用|2016|RECOMB|Multitask Matrix Completion for Learning Protein Interactions Across Diseases|多任务矩阵|方法|1|否|
+|互斥癌症通路和依赖关系的联合推断|3016|RECOMB|pathTiMEx: Joint Inference of Mutually Exclusive Cancer Pathways and Their Dependencies in Tumor Progression|MCMC、概率生成模型|方法|1|否|
+## RECOMB 2017
+|文章简介|发表时间|会议来源|文献名|机器学习方法|文章备注|重要性评分|是否药物重定位|
+|-------|--------|-------|------|-----------|-------|---------|-----------|
+
+## RECOMB 2018
+|文章简介|发表时间|会议来源|文献名|机器学习方法|文章备注|重要性评分|是否药物重定位|
+|-------|--------|-------|------|-----------|-------|---------|-----------|
+|新的图编辑距离|2018|RECOMB|GTED: Graph Traversal Edit Distance|无|理论|1|否|
+|元基因组微生物分类|2018|RECOMB|Accurate Reconstruction of Microbial Strains from Metagenomic Sequencing Using Representative Reference Genomes|概率模型，聚类|方法|2|否|
+## RECOMB 2019
+|文章简介|发表时间|会议来源|文献名|机器学习方法|文章备注|重要性评分|是否药物重定位|
+|-------|--------|-------|------|-----------|-------|---------|-----------|
+|非结构化本体论文本概念识别|2019|RECOMB|Identifying Clinical Terms in Free-Text Notes Using Ontology-Guided Machine Learning|CNN|方法|1|否|
